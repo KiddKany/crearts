@@ -1,0 +1,1939 @@
+{
+	"providers": [
+		{
+			"type":"bitmap",
+			"file":"icons:menu/main_menu.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC00\uDB80\uDC01\uDB80\uDC02\uDB80\uDC03\uDB80\uDC04"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/options.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC08\uDB80\uDC09\uDB80\uDC0A\uDB80\uDC0B\uDB80\uDC0C\uDB80\uDC0D\uDB80\uDC0E\uDB80\uDC0F\uDB80\uDC10\uDB80\uDC11\uDB80\uDC12\uDB80\uDC13"
+				]
+		},
+        {
+			"type": "bitmap",
+			"file": "minecraft:gui/container/brewing_guide_left.png",
+			"ascent": 13,
+			"height": 166,
+			"chars": ["\uEff1"]
+		 },
+		 {
+			"type": "bitmap",
+			"file": "minecraft:gui/container/brewing_guide_right.png",
+			"ascent": 27,
+			"height": 193,
+			"chars": ["\uEff2"]
+	    },
+		{ 
+			"type": "bitmap",
+            "file": "minecraft:font/raid.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE903"]
+        },
+		{
+		    "type": "bitmap",
+            "file": "minecraft:font/wither.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE906"]
+        },
+	    {
+			 "type": "bitmap",
+            "file": "minecraft:font/enderdragon.png",
+            "ascent": 13, "height": 52,
+            "chars": ["\uE907"]
+        },
+		{
+			"type":"bitmap",
+			"file":"icons:menu/skin_customization.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC18\uDB80\uDC19\uDB80\uDC1A\uDB80\uDC1B\uDB80\uDC1C\uDB80\uDC1D\uDB80\uDC1E\uDB80\uDC1F\uDB80\uDC20\uDB80\uDC21\uDB80\uDC22"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/online_options.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC28\uDB80\uDC29"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/skin_customization.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC2A\uDB80\uDC2B\uDB80\uDC2C\uDB80\uDC2D\uDB80\uDC2E\uDB80\uDC2F\uDB80\uDC30\uDB80\uDC31\uDB80\uDC32\uDB80\uDC33\uDB80\uDC34"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/music_sound_options.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC3A\uDB80\uDC3B\uDB80\uDC3C\uDB80\uDC3D\uDB80\uDC3E\uDB80\uDC3F\uDB80\uDC40\uDB80\uDC41\uDB80\uDC42\uDB80\uDC43\uDB80\uDC44\uDB80\uDC45\uDB80\uDC46"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/video_settings.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC48\uDB80\uDC49\uDB80\uDC4A\uDB80\uDC4B\uDB80\uDC4C\uDB80\uDC4D\uDB80\uDC4E\uDB80\uDC4F\uDB80\uDC50\uDB80\uDC51\uDB80\uDC52\uDB80\uDC53",
+					"\uDB80\uDC54\uDB80\uDC55\uDB80\uDC56\uDB80\uDC57\uDB80\uDC58\uDB80\uDC59\uDB80\uDC5A\uDB80\uDC5B\uDB80\uDC5C\uDB80\uDC5D\uDB80\uDC5E\uDB80\uDC5F",		
+					"\uDB80\uDC60\uDB80\uDC61\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/controls.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC70\uDB80\uDC71"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/key_binds.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC72\uDB80\uDC73\uDB80\uDC74\uDB80\uDC75\uDB80\uDC76\uDB80\uDC77\uDB80\uDC78"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/chat_settings.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC79\uDB80\uDC7A\uDB80\uDC7B\uDB80\uDC7C\uDB80\uDC7D\uDB80\uDC7E\uDB80\uDC7F"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/resource_packs.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC80\uDB80\uDC81\uDB80\uDC82"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/on_off.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC23\uDB80\uDC24"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/accessibility_settings.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC35\uDB80\uDC36\uDB80\uDC37\uDB80\uDC38\uDB80\uDC39"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/escape_menu.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC83\uDB80\uDC84\uDB80\uDC85\uDB80\uDC86\uDB80\uDC87\uDB80\uDC88\uDB80\uDC89"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/sleep.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC47"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/world_creation.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC62\uDB80\uDC63\uDB80\uDC64\uDB80\uDC65\uDB80\uDC66\uDB80\uDC67\uDB80\uDC68\uDB80\uDC69\uDB80\uDC6A\uDB90\uDC6B\uDB90\uDC6C\uDB90\uDC6D",
+					"\uDB90\uDC6E\uDB90\uDC6F\uDB90\uDC70\uDB90\uDC71\uDB90\uDC72\u0000\u0000\u0000\u0000\u0000\u0000\u0000"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/singleplayer.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC14\uDB80\uDC15\uDB80\uDC16\uDB80\uDC17"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/multiplayer.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC05\uDB80\uDC06"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/online_options.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC07"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"icons:menu/game_rules.png",
+				"ascent":13,
+				"height":20,
+				"chars":[
+					"\uDB80\uDC8A\uDB80\uDC8B\uDB80\uDC8C\uDB80\uDC8D\uDB80\uDC8E\uDB80\uDC8F\uDB80\uDC90"
+				]
+		},		
+		{
+			"type": "bitmap",
+			"file": "icons:menu/gamemenulogo.png",
+				"ascent": 10,
+				"height": 50,
+				"chars": [
+				"\uDB80\uDC25"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "icons:menu/death.png",
+				"ascent": 15,
+				"height": 19,
+				"chars": [
+				"\uDBE8\uDCF5\uDBE8\uDCF6"
+			]
+		},		
+		{
+			"type": "bitmap",
+			"file": "icons:menu/resource_pack_frame.png",
+				"ascent": 30,
+				"height": 34,
+				"chars": [
+				"\uDBA4\uDF25"
+			]
+		},			
+        {
+         "type": "bitmap",
+         "file": "icons:statistic/stats.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDC91\uDB80\uDCAC\uDB80\uDCC7",
+            "\uDB80\uDC92\uDB80\uDCAD\uDB80\uDCC8",
+            "\uDB80\uDC93\uDB80\uDCAE\uDB80\uDCC9",
+            "\uDB80\uDC94\uDB80\uDCAF\uDB80\uDCCA",
+            "\uDB80\uDC95\uDB80\uDCB0\uDB80\uDCCB",
+            "\uDB80\uDC96\uDB80\uDCB1\uDB80\uDCCC",
+            "\uDB80\uDC97\uDB80\uDCB2\uDB80\uDCCD",
+            "\uDB80\uDC98\uDB80\uDCB3\uDB80\uDCCE",
+            "\uDB80\uDC99\uDB80\uDCB4\uDB80\uDCCF",
+            "\uDB80\uDC9A\uDB80\uDCB5\uDB80\uDCD0",
+            "\uDB80\uDC9B\uDB80\uDCB6\uDB80\uDCD1",
+            "\uDB80\uDC9C\uDB80\uDCB7\uDB80\uDCD2",
+            "\uDB80\uDC9D\uDB80\uDCB8\uDB80\uDCD3",
+            "\uDB80\uDC9E\uDB80\uDCB9\uDB80\uDCD4",
+            "\uDB80\uDC9F\uDB80\uDCBA\uDB80\uDCD5",
+            "\uDB80\uDCA0\uDB80\uDCBB\uDB80\uDCD6",
+            "\uDB80\uDCA1\uDB80\uDCBC\uDB80\uDCD7",
+            "\uDB80\uDCA2\uDB80\uDCBD\uDB80\uDCD8",
+            "\uDB80\uDCA3\uDB80\uDCBE\uDB80\uDCD9",
+            "\uDB80\uDCA4\uDB80\uDCBF\uDB80\uDCDA",
+            "\uDB80\uDCA5\uDB80\uDCC0\uDB80\uDCDB",
+            "\uDB80\uDCA6\uDB80\uDCC1\u0000",
+            "\uDB80\uDCA7\uDB80\uDCC2\u0000",
+            "\uDB80\uDCA8\uDB80\uDCC3\u0000",
+            "\uDB80\uDCA9\uDB80\uDCC4\u0000",
+            "\uDB80\uDCAA\uDB80\uDCC5\u0000",
+            "\uDB80\uDCAB\uDB80\uDCC6\u0000"			
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "icons:items/tooltip/attributes.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDCFD\uDB80\uDCFE\uDB80\uDCFF\uDB80\uDD00\uDB80\uDD01\uDB80\uDD02\uDB80\uDD03\uDB80\uDD04\uDB80\uDD05\uDB80\uDD06",
+            "\uDB80\uDD07\uDB80\uDD08\uDB80\uDD09\uDB80\uDD0A\uDB80\uDD0B\uDB80\uDD0C\uDB80\uDD0D\uDB80\uDD0E\uDB80\uDD0F\uDB80\uDD10"
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "icons:items/tooltip/pattern.png",
+         "ascent": 7,
+         "height": 8,
+         "chars": [
+            "\uDB80\uDD45\uDB80\uDD46\uDB80\uDD47\uDB80\uDD48\uDB80\uDD49\uDB80\uDD4A"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/tooltip/food.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDD51\uDB80\uDD52\uDB80\uDD53\uDB80\uDD54",
+            "\uDB80\uDD55\uDB80\uDD56\uDB80\uDD57\uDB80\uDD58",
+            "\uDB80\uDD59\uDB80\uDD5A\uDB80\uDD5B\uDB80\uDD5C",
+            "\uDB80\uDD5D\uDB80\uDD5E\uDB80\uDD5F\uDB80\uDD60",
+			"\uDB80\uDD61\uDB80\uDD62\uDB80\uDD63\uDB80\uDD64",
+			"\uDB80\uDD65\uDB80\uDD66\uDB80\uDD67\uDB80\uDD68",
+			"\uDB80\uDD69\uDB80\uDD6A\uDB80\uDD6B\uDB80\uDD6C",
+			"\uDB80\uDD6D\uDB80\uDD6E\uDB80\uDD6F\uDB80\uDD70",
+            "\uDB80\uDD71\uDB80\uDD72\uDB80\uDD73\uDB80\uDD74",
+            "\uDB80\uDD75\uDB80\uDD76\uDB80\uDD77\uDB80\uDD78",
+			"\uDB80\uDD79\uDB80\uDD7A\uDB80\uDD7B\uDB80\uDD7C",
+			"\uDB80\uDD7D\uDB80\uDD7E\uDB80\uDD7F\uDB80\uDD80",
+			"\uDB80\uDD81\uDB80\uDD82\uDB80\uDD83\uDB80\uDD84",
+			"\uDB80\uDD85\uDB80\uDD86\uDB80\uDD87\uDB80\uDD88"	
+            ]
+        },
+		{
+         "type": "bitmap",
+         "file": "icons:items/tooltip/effects.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+			"\uDB80\uDD89\uDB80\uDD8A\uDB80\uDD8B\uDB80\uDD8C\uDB80\uDD8D\uDB80\uDD8E\uDB80\uDD8F\uDB80\uDD90",	
+            "\uDB80\uDD91\uDB80\uDD92\uDB80\uDD93\uDB80\uDD94\uDB80\uDD95\uDB80\uDD96\uDB80\uDD97\uDB80\uDD98",
+			"\uDB80\uDD99\uDB80\uDD9A\uDB80\uDD9B\uDB80\uDD9C\uDB80\uDD9D\uDB80\uDD9E\uDB80\uDD9F\uDB80\uDDA0",
+			"\uDB80\uDDA1\uDB80\uDDA2\uDB80\uDDA3\uDB80\uDDA4\uDB80\uDDA5\uDB80\uDDA6\uDB80\uDDA7\uDB80\uDDA8",
+			"\uDB80\uDDA9\uDB80\uDDAA\uDB80\uDDAB\uDB80\uDDAC\uDB80\uDDAD\uDB80\uDDAE\uDB80\uDDAF\uDB80\uDDB0"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/music/discs.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "\uDB80\uDDB1\uDB80\uDDB2\uDB80\uDDB3\uDB80\uDDB4\uDB80\uDDB5\uDB80\uDDB6\uDB80\uDDB7",
+            "\uDB80\uDDB8\uDB80\uDDB9\uDB80\uDDBA\uDB80\uDDBB\uDB80\uDDBC\uDB80\uDDBD\uDB80\uDDBE",
+            "\uDB80\uDDBF\uDB80\uDDC0\uDB80\uDDC1\uDB80\uDDC2\uDB80\uDDC3\uDB80\uDDC4\uDB80\uDDC5"			
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:gui/item_groups.png",
+         "ascent": 9,
+         "height": 10,
+         "chars": [
+            "\uDB80\uDDC6\uDB80\uDDC7\uDB80\uDDC8\uDB80\uDDC9\uDB80\uDDCA\uDB80\uDDCB\uDB80\uDDCC",
+			"\uDB80\uDDCD\uDB80\uDDCE\uDB80\uDDCF\uDB80\uDDD0\uDB80\uDDD1\uDB80\uDDD2\uDB80\uDDD3"
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "icons:items/firework/dye.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDDEC\uDB80\uDDED\uDB80\uDDEE\uDB80\uDDEF",
+            "\uDB80\uDDF0\uDB80\uDDF1\uDB80\uDDF2\uDB80\uDDF3",
+            "\uDB80\uDDF4\uDB80\uDDF5\uDB80\uDDF6\uDB80\uDDF7",
+            "\uDB80\uDDF8\uDB80\uDDF9\uDB80\uDDFA\uDB80\uDDFB"			
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/firework/shape.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDDFC\uDB80\uDDFD\uDB80\uDDFE\uDB80\uDDFF\uDB80\uDE00\uDB80\uDE01",
+            "\uDB80\uDE02\uDB80\uDE03\uDB80\uDE04\uDB80\uDE05\uDB80\uDE06\uDB80\uDE07"		
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:chat/gamemodes.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDE0B\uDB80\uDE0C\uDB80\uDE0D\uDB80\uDE0E\uDB80\uDE0F\uDBC1\uDE69"	
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:gui/anvil_enchantingtable.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "\uDB80\uDE10\uDB80\uDE11\uDB80\uDE12\uDB80\uDE13"	
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/advancement_groups.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+            "\uDB80\uDE15\uDB80\uDE16\uDB80\uDE17\uDB80\uDE18\uDB80\uDE19"	
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/advancement_categories.png",
+         "ascent": 11,
+         "height": 15,
+         "chars": [
+            "\uDB80\uDE1A\uDB80\uDE1B\uDB80\uDE1C"	
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/tooltip/levels.png",
+         "ascent": 7,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDE28\uDB80\uDE29\uDB80\uDE2A\uDB80\uDE2B\uDB80\uDE2C",
+			"\uDB80\uDE2D\uDB80\uDE2E\uDB80\uDE2F\uDB80\uDE30\uDB80\uDE31",
+			"\uDB80\uDE32\uDB80\uDE33\uDB80\uDE34\uDB80\uDE35\uDB80\uDE36",
+			"\uDB80\uDE37\uDB80\uDE38\uDB80\uDE39\uDB80\uDE3A\uDB80\uDE3B",
+			"\uDB80\uDE3C\uDB80\uDE3D\uDB80\uDE3E\uDB80\uDE3F\uDB80\uDE40",
+			"\uDB80\uDE41\uDB80\uDE42\uDB80\uDE43\uDB80\uDE44\uDB80\uDE45",
+			"\uDB80\uDE46\uDB80\uDE47\uDB80\uDE48\uDB80\uDE49\uDB80\uDE4A",
+			"\uDB80\uDE4B\uDB80\uDE4C\uDB80\uDE4D\uDB80\uDE4E\uDB80\uDE4F",
+			"\uDB80\uDE50\uDB80\uDE51\uDB80\uDE52\uDB80\uDE53\uDB80\uDE54",
+			"\uDB80\uDE55\uDB80\uDE56\uDB80\uDE57\uDB80\uDE58\uDB80\uDE59"
+            ]
+        },				
+        {
+         "type": "bitmap",
+         "file": "icons:menu/biomes.png",
+         "ascent": 11,
+         "height": 16,
+         "chars": [
+			"\uDBD1\uDF7F\uDBD1\uDF80\uDBD1\uDF81\uDBD1\uDF82\uDBD1\uDF83\uDBD1\uDF84\uDBD1\uDF85\uDBD1\uDF86",
+			"\uDBD1\uDF87\uDBD1\uDF88\uDBD1\uDF89\uDBD1\uDF8A\uDBD1\uDF8B\uDBD1\uDF8C\uDBD1\uDF8D\uDBD1\uDF8E",
+			"\uDBD1\uDF8F\uDBD1\uDF90\uDBD1\uDF91\uDBD1\uDF92\uDBD1\uDF93\uDBD1\uDF94\uDBD1\uDF95\uDBD1\uDF96",
+			"\uDBD1\uDF97\uDBD1\uDF98\uDBD1\uDF99\uDBD1\uDF9A\uDBD1\uDF9B\uDBD1\uDF9C\uDBD1\uDF9D\uDBD1\uDF9E",
+			"\uDBD1\uDF9F\uDBD1\uDFA0\uDBD1\uDFA1\uDBD1\uDFA2\uDBD1\uDFA3\uDBD1\uDFA4\uDBD1\uDFA5\uDBD1\uDFA6",
+			"\uDBD1\uDFA7\uDBD1\uDFA8\uDBD1\uDFA9\uDBD1\uDFAA\uDBD1\uDFAB\uDBD1\uDFAC\uDBD1\uDFAD\uDBD1\uDFAE",
+			"\uDBD1\uDFAF\uDBD1\uDFB0\uDBD1\uDFB1\uDBD1\uDFB2\uDBD1\uDFB3\uDBD1\uDFB4\uDBD1\uDFB5\uDBD1\uDFB6",			
+			"\uDBD1\uDFB7\uDBD1\uDFB8\uDBD1\uDFB9\uDBD1\uDFBA\uDBD1\uDFBB\uDBD1\uDFBC\uDBD1\uDFBD\uDBD1\uDFBE"
+			]
+		},	
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/border.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDD26",
+			"\uDBC0\uDD27",
+			"\uDBC0\uDD28",
+			"\uDBC0\uDD29",
+			"\uDBC0\uDD2A",
+			"\uDBC0\uDD2B",
+			"\uDBC0\uDD2C",
+			"\uDBC0\uDD2D",
+			"\uDBC0\uDD2E",
+			"\uDBC0\uDD2F",
+			"\uDBC0\uDD30",
+			"\uDBC0\uDD31",
+			"\uDBC0\uDD32",
+			"\uDBC0\uDD33",
+			"\uDBC0\uDD34",
+			"\uDBC0\uDD35"
+			]
+		},			
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/bricks.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDD36",
+			"\uDBC0\uDD37",
+			"\uDBC0\uDD38",
+			"\uDBC0\uDD39",
+			"\uDBC0\uDD3A",
+			"\uDBC0\uDD3B",	
+			"\uDBC0\uDD3C",
+			"\uDBC0\uDD3D",
+			"\uDBC0\uDD3E",
+			"\uDBC0\uDD3F",
+			"\uDBC0\uDD40",
+			"\uDBC0\uDD41",
+			"\uDBC0\uDD42",
+			"\uDBC0\uDD43",
+			"\uDBC0\uDD44",
+			"\uDBC0\uDD45"
+			]
+		},	
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/circle.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDD46",
+			"\uDBC0\uDD47",
+			"\uDBC0\uDD48",
+			"\uDBC0\uDD49",
+			"\uDBC0\uDD4A",
+			"\uDBC0\uDD4B",
+			"\uDBC0\uDD4C",
+			"\uDBC0\uDD4D",
+			"\uDBC0\uDD4E",
+			"\uDBC0\uDD4F",
+			"\uDBC0\uDD50",
+			"\uDBC0\uDD51",
+			"\uDBC0\uDD52",
+			"\uDBC0\uDD53",
+			"\uDBC0\uDD54",
+			"\uDBC0\uDD55"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/creeper.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDD56",
+			"\uDBC0\uDD57",
+			"\uDBC0\uDD58",
+			"\uDBC0\uDD59",
+			"\uDBC0\uDD5A",
+			"\uDBC0\uDD5B",
+			"\uDBC0\uDD5C",
+			"\uDBC0\uDD5D",
+			"\uDBC0\uDD5E",
+			"\uDBC0\uDD5F",
+			"\uDBC0\uDD60",
+			"\uDBC0\uDD61",
+			"\uDBC0\uDD62",
+			"\uDBC0\uDD63",
+			"\uDBC0\uDD64",
+			"\uDBC0\uDD65"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/cross.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDD66",
+			"\uDBC0\uDD67",
+			"\uDBC0\uDD68",
+			"\uDBC0\uDD69",
+			"\uDBC0\uDD6A",
+			"\uDBC0\uDD6B",
+			"\uDBC0\uDD6C",
+			"\uDBC0\uDD6D",
+			"\uDBC0\uDD6E",
+			"\uDBC0\uDD6F",
+			"\uDBC0\uDD70",
+			"\uDBC0\uDD71",
+			"\uDBC0\uDD72",
+			"\uDBC0\uDD73",
+			"\uDBC0\uDD74",
+			"\uDBC0\uDD75"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/curly_border.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDD76",
+			"\uDBC0\uDD77",
+			"\uDBC0\uDD78",
+			"\uDBC0\uDD79",
+			"\uDBC0\uDD7A",
+			"\uDBC0\uDD7B",
+			"\uDBC0\uDD7C",
+			"\uDBC0\uDD7D",	 		 
+			"\uDBC0\uDD7E",
+			"\uDBC0\uDD7F",
+			"\uDBC0\uDD80",
+			"\uDBC0\uDD81",
+			"\uDBC0\uDD82",
+			"\uDBC0\uDD83",
+			"\uDBC0\uDD84",
+			"\uDBC0\uDD85"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/diagonal_left.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDD86",
+			"\uDBC0\uDD87",
+			"\uDBC0\uDD88",
+			"\uDBC0\uDD89",
+			"\uDBC0\uDD8A",
+			"\uDBC0\uDD8B",
+			"\uDBC0\uDD8C",
+			"\uDBC0\uDD8D",
+			"\uDBC0\uDD8E",
+			"\uDBC0\uDD8F",
+			"\uDBC0\uDD90",
+			"\uDBC0\uDD91",
+			"\uDBC0\uDD92",
+			"\uDBC0\uDD93",
+			"\uDBC0\uDD94",
+			"\uDBC0\uDD95"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/diagonal_right.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDD96",
+			"\uDBC0\uDD97",
+			"\uDBC0\uDD98",
+			"\uDBC0\uDD99",
+			"\uDBC0\uDD9A",
+			"\uDBC0\uDD9B",
+			"\uDBC0\uDD9C",
+			"\uDBC0\uDD9D",
+			"\uDBC0\uDD9E",
+			"\uDBC0\uDD9F",
+			"\uDBC0\uDDA0",
+			"\uDBC0\uDDA1",
+			"\uDBC0\uDDA2",
+			"\uDBC0\uDDA3",
+			"\uDBC0\uDDA4",
+			"\uDBC0\uDDA5"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/diagonal_up_left.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDDA6",
+			"\uDBC0\uDDA7",
+			"\uDBC0\uDDA8",
+			"\uDBC0\uDDA9",	 
+			"\uDBC0\uDDAA",
+			"\uDBC0\uDDAB",
+			"\uDBC0\uDDAC",
+			"\uDBC0\uDDAD",
+			"\uDBC0\uDDAE",
+			"\uDBC0\uDDAF",
+			"\uDBC0\uDDB0",
+			"\uDBC0\uDDB1",
+			"\uDBC0\uDDB2",
+			"\uDBC0\uDDB3",
+			"\uDBC0\uDDB4",
+			"\uDBC0\uDDB5"			
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/diagonal_up_right.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDDB6",
+			"\uDBC0\uDDB7",
+			"\uDBC0\uDDB8",
+			"\uDBC0\uDDB9",
+			"\uDBC0\uDDBA",
+			"\uDBC0\uDDBB",
+			"\uDBC0\uDDBC",
+			"\uDBC0\uDDBD",
+			"\uDBC0\uDDBE",
+			"\uDBC0\uDDBF",
+			"\uDBC0\uDDC0",
+			"\uDBC0\uDDC1",
+			"\uDBC0\uDDC2",
+			"\uDBC0\uDDC3",
+			"\uDBC0\uDDC4",
+			"\uDBC0\uDDC5"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/flower.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDDC6",
+			"\uDBC0\uDDC7",
+			"\uDBC0\uDDC8",
+			"\uDBC0\uDDC9",
+			"\uDBC0\uDDCA",
+			"\uDBC0\uDDCB",
+			"\uDBC0\uDDCC",
+			"\uDBC0\uDDCD",
+			"\uDBC0\uDDCE",
+			"\uDBC0\uDDCF",
+			"\uDBC0\uDDD0",
+			"\uDBC0\uDDD1",
+			"\uDBC0\uDDD2",
+			"\uDBC0\uDDD3",
+			"\uDBC0\uDDD4",
+			"\uDBC0\uDDD5"		 
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/globe.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDDD6",
+			"\uDBC0\uDDD7",
+			"\uDBC0\uDDD8",
+			"\uDBC0\uDDD9",
+			"\uDBC0\uDDDA",
+			"\uDBC0\uDDDB",
+			"\uDBC0\uDDDC",
+			"\uDBC0\uDDDD",
+			"\uDBC0\uDDDE",
+			"\uDBC0\uDDDF",
+			"\uDBC0\uDDE0",
+			"\uDBC0\uDDE1",
+			"\uDBC0\uDDE2",
+			"\uDBC0\uDDE3",
+			"\uDBC0\uDDE4",
+			"\uDBC0\uDDE5"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/gradient.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDDE6",
+			"\uDBC0\uDDE7",
+			"\uDBC0\uDDE8",
+			"\uDBC0\uDDE9",
+			"\uDBC0\uDDEA",
+			"\uDBC0\uDDEB",
+			"\uDBC0\uDDEC",
+			"\uDBC0\uDDED",
+			"\uDBC0\uDDEE",
+			"\uDBC0\uDDEF",
+			"\uDBC0\uDDF0",
+			"\uDBC0\uDDF1",
+			"\uDBC0\uDDF2",
+			"\uDBC0\uDDF3",
+			"\uDBC0\uDDF4",
+			"\uDBC0\uDDF5"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/gradient_up.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDDF6",
+			"\uDBC0\uDDF7",
+			"\uDBC0\uDDF8",
+			"\uDBC0\uDDF9",
+			"\uDBC0\uDDFA",
+			"\uDBC0\uDDFB",
+			"\uDBC0\uDDFC",
+			"\uDBC0\uDDFD",
+			"\uDBC0\uDDFE",
+			"\uDBC0\uDDFF",
+			"\uDBC0\uDE00",
+			"\uDBC0\uDE01", 
+			"\uDBC0\uDE02",
+			"\uDBC0\uDE03",
+			"\uDBC0\uDE04",
+			"\uDBC0\uDE05"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/half_horizontal.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE06",
+			"\uDBC0\uDE07",
+			"\uDBC0\uDE08",
+			"\uDBC0\uDE09",
+			"\uDBC0\uDE0A",
+			"\uDBC0\uDE0B",
+			"\uDBC0\uDE0C",
+			"\uDBC0\uDE0D",
+			"\uDBC0\uDE0E",
+			"\uDBC0\uDE0F",
+			"\uDBC0\uDE10",
+			"\uDBC0\uDE11",
+			"\uDBC0\uDE12",
+			"\uDBC0\uDE13",
+			"\uDBC0\uDE14",
+			"\uDBC0\uDE15"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/half_horizontal_bottom.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE16",
+			"\uDBC0\uDE17",
+			"\uDBC0\uDE18",
+			"\uDBC0\uDE19",
+			"\uDBC0\uDE1A",
+			"\uDBC0\uDE1B",
+			"\uDBC0\uDE1C",
+			"\uDBC0\uDE1D",
+			"\uDBC0\uDE1E",
+			"\uDBC0\uDE1F",
+			"\uDBC0\uDE20",
+			"\uDBC0\uDE21",
+			"\uDBC0\uDE22",
+			"\uDBC0\uDE23",
+			"\uDBC0\uDE24",
+			"\uDBC0\uDE25"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/half_vertical.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE26",
+			"\uDBC0\uDE27",
+			"\uDBC0\uDE28",
+			"\uDBC0\uDE29",
+			"\uDBC0\uDE2A",
+			"\uDBC0\uDE2B",
+			"\uDBC0\uDE2C",
+			"\uDBC0\uDE2D",	 
+			"\uDBC0\uDE2E",
+			"\uDBC0\uDE2F",
+			"\uDBC0\uDE30",
+			"\uDBC0\uDE31",
+			"\uDBC0\uDE32",
+			"\uDBC0\uDE33",
+			"\uDBC0\uDE34",
+			"\uDBC0\uDE35"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/half_vertical_right.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE36",
+			"\uDBC0\uDE37",
+			"\uDBC0\uDE38",
+			"\uDBC0\uDE39",
+			"\uDBC0\uDE3A",
+			"\uDBC0\uDE3B",
+			"\uDBC0\uDE3C",
+			"\uDBC0\uDE3D",
+			"\uDBC0\uDE3E",
+			"\uDBC0\uDE3F",
+			"\uDBC0\uDE40",
+			"\uDBC0\uDE41",
+			"\uDBC0\uDE42",
+			"\uDBC0\uDE43",
+			"\uDBC0\uDE44",
+			"\uDBC0\uDE45"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/mojang.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE46",
+			"\uDBC0\uDE47",
+			"\uDBC0\uDE48",
+			"\uDBC0\uDE49",
+			"\uDBC0\uDE4A",
+			"\uDBC0\uDE4B",
+			"\uDBC0\uDE4C",
+			"\uDBC0\uDE4D",
+			"\uDBC0\uDE4E",
+			"\uDBC0\uDE4F",
+			"\uDBC0\uDE50",
+			"\uDBC0\uDE51",
+			"\uDBC0\uDE52",
+			"\uDBC0\uDE53",
+			"\uDBC0\uDE54",
+			"\uDBC0\uDE55"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/piglin.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE56",
+			"\uDBC0\uDE57",
+			"\uDBC0\uDE58",
+			"\uDBC0\uDE59",	 
+			"\uDBC0\uDE5A",
+			"\uDBC0\uDE5B",
+			"\uDBC0\uDE5C",
+			"\uDBC0\uDE5D",
+			"\uDBC0\uDE5E",
+			"\uDBC0\uDE5F",
+			"\uDBC0\uDE60",
+			"\uDBC0\uDE61",
+			"\uDBC0\uDE62",
+			"\uDBC0\uDE63",
+			"\uDBC0\uDE64",
+			"\uDBC0\uDE65"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/rhombus.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE66",
+			"\uDBC0\uDE67",
+			"\uDBC0\uDE68",
+			"\uDBC0\uDE69",
+			"\uDBC0\uDE6A",
+			"\uDBC0\uDE6B",
+			"\uDBC0\uDE6C",
+			"\uDBC0\uDE6D",
+			"\uDBC0\uDE6E",
+			"\uDBC0\uDE6F",
+			"\uDBC0\uDE70",
+			"\uDBC0\uDE71",
+			"\uDBC0\uDE72",
+			"\uDBC0\uDE73",
+			"\uDBC0\uDE74",
+			"\uDBC0\uDE75"											
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/skull.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE76",
+			"\uDBC0\uDE77",
+			"\uDBC0\uDE78",
+			"\uDBC0\uDE79",
+			"\uDBC0\uDE7A",
+			"\uDBC0\uDE7B",
+			"\uDBC0\uDE7C",
+			"\uDBC0\uDE7D",
+			"\uDBC0\uDE7E",
+			"\uDBC0\uDE7F",
+			"\uDBC0\uDE80",
+			"\uDBC0\uDE81",
+			"\uDBC0\uDE82",
+			"\uDBC0\uDE83",
+			"\uDBC0\uDE84",
+			"\uDBC0\uDE85"	 		 
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/small_stripes.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE86",
+			"\uDBC0\uDE87",
+			"\uDBC0\uDE88",
+			"\uDBC0\uDE89",
+			"\uDBC0\uDE8A",
+			"\uDBC0\uDE8B",
+			"\uDBC0\uDE8C",
+			"\uDBC0\uDE8D",
+			"\uDBC0\uDE8E",
+			"\uDBC0\uDE8F",
+			"\uDBC0\uDE90",
+			"\uDBC0\uDE91",
+			"\uDBC0\uDE92",
+			"\uDBC0\uDE93",
+			"\uDBC0\uDE94",
+			"\uDBC0\uDE95"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/square_bottom_left.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDE96",
+			"\uDBC0\uDE97",
+			"\uDBC0\uDE98",
+			"\uDBC0\uDE99",
+			"\uDBC0\uDE9A",
+			"\uDBC0\uDE9B",
+			"\uDBC0\uDE9C",
+			"\uDBC0\uDE9D",
+			"\uDBC0\uDE9E",
+			"\uDBC0\uDE9F",
+			"\uDBC0\uDEA0",
+			"\uDBC0\uDEA1",
+			"\uDBC0\uDEA2",
+			"\uDBC0\uDEA3",
+			"\uDBC0\uDEA4",
+			"\uDBC0\uDEA5"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/square_bottom_right.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDEA6",
+			"\uDBC0\uDEA7",
+			"\uDBC0\uDEA8",
+			"\uDBC0\uDEA9",
+			"\uDBC0\uDEAA",
+			"\uDBC0\uDEAB",
+			"\uDBC0\uDEAC",
+			"\uDBC0\uDEAD",
+			"\uDBC0\uDEAE",
+			"\uDBC0\uDEAF",
+			"\uDBC0\uDEB0",
+			"\uDBC0\uDEB1",	 
+			"\uDBC0\uDEB2",
+			"\uDBC0\uDEB3",
+			"\uDBC0\uDEB4",
+			"\uDBC0\uDEB5"			
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/square_top_left.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDEB6",
+			"\uDBC0\uDEB7",
+			"\uDBC0\uDEB8",
+			"\uDBC0\uDEB9",
+			"\uDBC0\uDEBA",
+			"\uDBC0\uDEBB",
+			"\uDBC0\uDEBC",
+			"\uDBC0\uDEBD",
+			"\uDBC0\uDEBE",
+			"\uDBC0\uDEBF",
+			"\uDBC0\uDEC0",
+			"\uDBC0\uDEC1",
+			"\uDBC0\uDEC2",
+			"\uDBC0\uDEC3",
+			"\uDBC0\uDEC4",
+			"\uDBC0\uDEC5"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/square_top_right.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDEC6",
+			"\uDBC0\uDEC7",
+			"\uDBC0\uDEC8",
+			"\uDBC0\uDEC9",
+			"\uDBC0\uDECA",
+			"\uDBC0\uDECB",
+			"\uDBC0\uDECC",
+			"\uDBC0\uDECD",
+			"\uDBC0\uDECE",
+			"\uDBC0\uDECF",
+			"\uDBC0\uDED0",
+			"\uDBC0\uDED1",
+			"\uDBC0\uDED2",
+			"\uDBC0\uDED3",
+			"\uDBC0\uDED4",
+			"\uDBC0\uDED5"		
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/straight_cross.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDED6",
+			"\uDBC0\uDED7",
+			"\uDBC0\uDED8",
+			"\uDBC0\uDED9",
+			"\uDBC0\uDEDA",
+			"\uDBC0\uDEDB",
+			"\uDBC0\uDEDC",
+			"\uDBC0\uDEDD",		 
+			"\uDBC0\uDEDE",
+			"\uDBC0\uDEDF",
+			"\uDBC0\uDEE0",
+			"\uDBC0\uDEE1",
+			"\uDBC0\uDEE2",
+			"\uDBC0\uDEE3",
+			"\uDBC0\uDEE4",
+			"\uDBC0\uDEE5"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/stripe_bottom.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDEE6",
+			"\uDBC0\uDEE7",
+			"\uDBC0\uDEE8",
+			"\uDBC0\uDEE9",
+			"\uDBC0\uDEEA",
+			"\uDBC0\uDEEB",
+			"\uDBC0\uDEEC",
+			"\uDBC0\uDEED",
+			"\uDBC0\uDEEE",
+			"\uDBC0\uDEEF",
+			"\uDBC0\uDEF0",
+			"\uDBC0\uDEF1",
+			"\uDBC0\uDEF2",
+			"\uDBC0\uDEF3",
+			"\uDBC0\uDEF4",
+			"\uDBC0\uDEF5"		
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/stripe_center.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDEF6",
+			"\uDBC0\uDEF7",
+			"\uDBC0\uDEF8",
+			"\uDBC0\uDEF9",
+			"\uDBC0\uDEFA",
+			"\uDBC0\uDEFB",
+			"\uDBC0\uDEFC",
+			"\uDBC0\uDEFD",
+			"\uDBC0\uDEFE",
+			"\uDBC0\uDEFF",
+			"\uDBC0\uDF00",
+			"\uDBC0\uDF01",
+			"\uDBC0\uDF02",
+			"\uDBC0\uDF03",
+			"\uDBC0\uDF04",
+			"\uDBC0\uDF05"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/stripe_downleft.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF06",
+			"\uDBC0\uDF07",
+			"\uDBC0\uDF08",
+			"\uDBC0\uDF09",		 
+			"\uDBC0\uDF0A",
+			"\uDBC0\uDF0B",
+			"\uDBC0\uDF0C",
+			"\uDBC0\uDF0D",
+			"\uDBC0\uDF0E",
+			"\uDBC0\uDF0F",
+			"\uDBC0\uDF10",
+			"\uDBC0\uDF11",
+			"\uDBC0\uDF12",
+			"\uDBC0\uDF13",
+			"\uDBC0\uDF14",
+			"\uDBC0\uDF15"	
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/stripe_downright.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF16",
+			"\uDBC0\uDF17",
+			"\uDBC0\uDF18",
+			"\uDBC0\uDF19",
+			"\uDBC0\uDF1A",
+			"\uDBC0\uDF1B",
+			"\uDBC0\uDF1C",
+			"\uDBC0\uDF1D",
+			"\uDBC0\uDF1E",
+			"\uDBC0\uDF1F",
+			"\uDBC0\uDF20",
+			"\uDBC0\uDF21",
+			"\uDBC0\uDF22",
+			"\uDBC0\uDF23",
+			"\uDBC0\uDF24",
+			"\uDBC0\uDF25"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/stripe_left.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF26",
+			"\uDBC0\uDF27",
+			"\uDBC0\uDF28",
+			"\uDBC0\uDF29",
+			"\uDBC0\uDF2A",
+			"\uDBC0\uDF2B",
+			"\uDBC0\uDF2C",
+			"\uDBC0\uDF2D",
+			"\uDBC0\uDF2E",
+			"\uDBC0\uDF2F",
+			"\uDBC0\uDF30",
+			"\uDBC0\uDF31",
+			"\uDBC0\uDF32",
+			"\uDBC0\uDF33",
+			"\uDBC0\uDF34",
+			"\uDBC0\uDF35"	 
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/stripe_middle.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF36",
+			"\uDBC0\uDF37",
+			"\uDBC0\uDF38",
+			"\uDBC0\uDF39",
+			"\uDBC0\uDF3A",
+			"\uDBC0\uDF3B",
+			"\uDBC0\uDF3C",
+			"\uDBC0\uDF3D",
+			"\uDBC0\uDF3E",
+			"\uDBC0\uDF3F",
+			"\uDBC0\uDF40",
+			"\uDBC0\uDF41",
+			"\uDBC0\uDF42",
+			"\uDBC0\uDF43",
+			"\uDBC0\uDF44",
+			"\uDBC0\uDF45"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/stripe_right.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF46",
+			"\uDBC0\uDF47",
+			"\uDBC0\uDF48",
+			"\uDBC0\uDF49",
+			"\uDBC0\uDF4A",
+			"\uDBC0\uDF4B",
+			"\uDBC0\uDF4C",
+			"\uDBC0\uDF4D",
+			"\uDBC0\uDF4E",
+			"\uDBC0\uDF4F",
+			"\uDBC0\uDF50",
+			"\uDBC0\uDF51",
+			"\uDBC0\uDF52",
+			"\uDBC0\uDF53",
+			"\uDBC0\uDF54",
+			"\uDBC0\uDF55"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/stripe_top.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF56",
+			"\uDBC0\uDF57",
+			"\uDBC0\uDF58",
+			"\uDBC0\uDF59",
+			"\uDBC0\uDF5A",
+			"\uDBC0\uDF5B",
+			"\uDBC0\uDF5C",
+			"\uDBC0\uDF5D",
+			"\uDBC0\uDF5E",
+			"\uDBC0\uDF5F",
+			"\uDBC0\uDF60",
+			"\uDBC0\uDF61",	 	 
+			"\uDBC0\uDF62",
+			"\uDBC0\uDF63",
+			"\uDBC0\uDF64",
+			"\uDBC0\uDF65"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/triangle_bottom.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF66",
+			"\uDBC0\uDF67",
+			"\uDBC0\uDF68",
+			"\uDBC0\uDF69",
+			"\uDBC0\uDF6A",
+			"\uDBC0\uDF6B",
+			"\uDBC0\uDF6C",
+			"\uDBC0\uDF6D",
+			"\uDBC0\uDF6E",
+			"\uDBC0\uDF6F",
+			"\uDBC0\uDF70",
+			"\uDBC0\uDF71",
+			"\uDBC0\uDF72",
+			"\uDBC0\uDF73",
+			"\uDBC0\uDF74",
+			"\uDBC0\uDF75"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/triangle_top.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF76",
+			"\uDBC0\uDF77",
+			"\uDBC0\uDF78",
+			"\uDBC0\uDF79",
+			"\uDBC0\uDF7A",
+			"\uDBC0\uDF7B",
+			"\uDBC0\uDF7C",
+			"\uDBC0\uDF7D",
+			"\uDBC0\uDF7E",
+			"\uDBC0\uDF7F",
+			"\uDBC0\uDF80",
+			"\uDBC0\uDF81",
+			"\uDBC0\uDF82",
+			"\uDBC0\uDF83",
+			"\uDBC0\uDF84",
+			"\uDBC0\uDF85"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/triangles_bottom.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF86",
+			"\uDBC0\uDF87",
+			"\uDBC0\uDF88",
+			"\uDBC0\uDF89",
+			"\uDBC0\uDF8A",
+			"\uDBC0\uDF8B",
+			"\uDBC0\uDF8C",
+			"\uDBC0\uDF8D",		 
+			"\uDBC0\uDF8E",
+			"\uDBC0\uDF8F",
+			"\uDBC0\uDF90",
+			"\uDBC0\uDF91",
+			"\uDBC0\uDF92",
+			"\uDBC0\uDF93",
+			"\uDBC0\uDF94",
+			"\uDBC0\uDF95"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/banner/triangles_top.png",
+         "ascent": 9,
+         "height": 11,
+         "chars": [
+			"\uDBC0\uDF96",
+			"\uDBC0\uDF97",
+			"\uDBC0\uDF98",
+			"\uDBC0\uDF99",
+			"\uDBC0\uDF9A",
+			"\uDBC0\uDF9B",
+			"\uDBC0\uDF9C",
+			"\uDBC0\uDF9D",
+			"\uDBC0\uDF9E",
+			"\uDBC0\uDF9F",
+			"\uDBC0\uDFA0",
+			"\uDBC0\uDFA1",
+			"\uDBC0\uDFA2",
+			"\uDBC0\uDFA3",
+			"\uDBC0\uDFA4",
+			"\uDBC0\uDFA5"																	
+			]
+		},	
+        {
+         "type": "bitmap",
+         "file": "icons:menu/language.png",
+         "ascent": 10,
+         "height": 11,
+         "chars": [
+            "\uDBC0\uDC00\uDBC0\uDC01\uDBC0\uDC02\uDBC0\uDC03\uDBC0\uDC04\uDBC0\uDC05\uDBC0\uDC06\uDBC0\uDC07\uDBC0\uDC08\uDBC0\uDC09\uDBC0\uDC0A\uDBC0\uDC0B\uDBC0\uDC0C\uDBC0\uDC0D\uDBC0\uDC0E\uDBC0\uDC0F\uDBC0\uDC10\uDBC0\uDC11\uDBC0\uDC12\uDBC0\uDC13\uDBC0\uDC14\uDBC0\uDC15\uDBC0\uDC16\uDBC0\uDC17\uDBC0\uDC18\uDBC0\uDC19\uDBC0\uDC1A\uDBC0\uDC1B\uDBC0\uDC1C\uDBC0\uDC1D\uDBC0\uDC1E\uDBC0\uDC1F",
+			"\uDBC0\uDC20\uDBC0\uDC21\uDBC0\uDC22\uDBC0\uDC23\uDBC0\uDC24\uDBC0\uDC25\uDBC0\uDC26\uDBC0\uDC27\uDBC0\uDC28\uDBC0\uDC29\uDBC0\uDC2A\uDBC0\uDC2B\uDBC0\uDC2C\uDBC0\uDC2D\uDBC0\uDC2E\uDBC0\uDC2F\uDBC0\uDC30\uDBC0\uDC31\uDBC0\uDC32\uDBC0\uDC33\uDBC0\uDC34\uDBC0\uDC35\uDBC0\uDC36\uDBC0\uDC37\uDBC0\uDC38\uDBC0\uDC39\uDBC0\uDC3A\uDBC0\uDC3B\uDBC0\uDC3C\uDBC0\uDC3D\uDBC0\uDC3E\uDBC0\uDC3F",
+			"\uDBC0\uDC40\uDBC0\uDC41\uDBC0\uDC42\uDBC0\uDC43\uDBC0\uDC44\uDBC0\uDC45\uDBC0\uDC46\uDBC0\uDC47\uDBC0\uDC48\uDBC0\uDC49\uDBC0\uDC4A\uDBC0\uDC4B\uDBC0\uDC4C\uDBC0\uDC4D\uDBC0\uDC4E\uDBC0\uDC4F\uDBC0\uDC50\uDBC0\uDC51\uDBC0\uDC52\uDBC0\uDC53\uDBC0\uDC54\uDBC0\uDC55\uDBC0\uDC56\uDBC0\uDC57\uDBC0\uDC58\uDBC0\uDC59\uDBC0\uDC5A\uDBC0\uDC5B\uDBC0\uDC5C\uDBC0\uDC5D\uDBC0\uDC5E\uDBC0\uDC5F",
+			"\uDBC0\uDC60\uDBC0\uDC61\uDBC0\uDC62\uDBC0\uDC63\uDBC0\uDC64\uDBC0\uDC65\uDBC0\uDC66\uDBC0\uDC67\uDBC0\uDC68\uDBC0\uDC69\uDBC0\uDC6A\uDBC0\uDC6B\uDBC0\uDC6C\uDBC0\uDC6D\uDBC0\uDC6E\uDBC0\uDC6F\uDBC0\uDC70\uDBC0\uDC71\uDBC0\uDC72\uDBC0\uDC73\uDBC0\uDC74\uDBC0\uDC75\uDBC0\uDC76\uDBC0\uDC77\uDBC0\uDC78\uDBC0\uDC79\uDBC0\uDC7A\uDBC0\uDC7B\uDBC0\uDC7C\uDBC0\uDC7D\uDBC0\uDC7E\uDBC0\uDC7F"
+            ]
+        },		
+        {
+         "type": "bitmap",
+         "file": "icons:items/spawneggs/mobs.png",
+         "ascent": 26,
+         "height": 26,
+         "chars": [
+            "\uDBC1\uDC10\uDBC1\uDC11\uDBC1\uDC12\uDBC1\uDC13\uDBC1\uDC14\uDBC1\uDC15\uDBC1\uDC16\uDBC1\uDC17\uDBC1\uDC18",
+			"\uDBC1\uDC19\uDBC1\uDC1A\uDBC1\uDC1B\uDBC1\uDC1C\uDBC1\uDC1D\uDBC1\uDC1E\uDBC1\uDC1F\uDBC1\uDC20\uDBC1\uDC21",
+			"\uDBC1\uDC22\uDBC1\uDC23\uDBC1\uDC24\uDBC1\uDC25\uDBC1\uDC26\uDBC1\uDC27\uDBC1\uDC28\uDBC1\uDC29\uDBC1\uDC2A",
+			"\uDBC1\uDC2B\uDBC1\uDC2C\uDBC1\uDC2D\uDBC1\uDC2E\uDBC1\uDC2F\uDBC1\uDC30\uDBC1\uDC31\uDBC1\uDC32\uDBC1\uDC33",
+			"\uDBC1\uDC34\uDBC1\uDC35\uDBC1\uDC36\uDBC1\uDC37\uDBC1\uDC38\uDBC1\uDC39\uDBC1\uDC3A\uDBC1\uDC3B\uDBC1\uDC3C",
+			"\uDBC1\uDC3D\uDBC1\uDC3E\uDBC1\uDC3F\uDBC1\uDC40\uDBC1\uDC41\uDBC1\uDC42\uDBC1\uDC43\uDBC1\uDC44\uDBC1\uDC45",
+			"\uDBC1\uDC46\uDBC1\uDC47\uDBC1\uDC48\uDBC1\uDC49\uDBC1\uDC4A\uDBC1\uDC4B\uDBC1\uDC4C\uDBC1\uDC4D\uDBC1\uDC4E",
+			"\uDBC1\uDC4F\uDBC1\uDC50\uDBC1\uDC51\uDBC1\uDC52\uDBC1\uDC53\uDBC1\uDC54\uDBC1\uDC55\uDBC1\uDC56\uDBC1\uDC57",
+			"\uDBC1\uDC58\uDBC1\uDC59\uDBC1\uDC5A\uDBC1\uDC5B\uDBC1\uDC5C\uDBC1\uDC5D\uDBC1\uDC5E\uDBC1\uDC5F\uDBC1\uDC60",
+			"\uDBC1\uDC61\uDBC1\uDC62\uDBC1\uDC63\uDBC1\uDC64\uDBC1\uDC65\uDBC1\uDC66\uDBC1\uDC67\uDBC1\uDC68\uDBC1\uDC69"
+            ]
+        },		
+		{
+		 "type": "bitmap",
+		 "file": "icons:items/tropical_fish/type.png",
+		 "ascent": 16,
+		 "height": 16,
+		 "chars": [
+			"\uDBFF\uDFC6\uDBFF\uDFC7\uDBFF\uDFC8\uDBFF\uDFC9\uDBFF\uDFDA\uDBFF\uDFDB",
+		    "\uDBFF\uDFDC\uDBFF\uDFDD\uDBFF\uDFDE\uDBFF\uDFDF\uDBFF\uDFD0\uDBFF\uDFD1"
+			]
+		},
+        {
+         "type": "bitmap",
+         "file": "icons:items/tropical_fish/predefined.png",
+         "ascent": 16,
+         "height": 16,
+         "chars": [
+			"\uDBFF\uDFD2\uDBFF\uDFD3\uDBFF\uDFD4\uDBFF\uDFD5\uDBFF\uDFD6\uDBFF\uDFD7",
+			"\uDBFF\uDFD8\uDBFF\uDFD9\uDBFF\uDFEA\uDBFF\uDFEB\uDBFF\uDFEC\uDBFF\uDFED",
+			"\uDBFF\uDFEE\uDBFF\uDFEF\uDBFF\uDFE0\uDBFF\uDFE1\uDBFF\uDFE2\uDBFF\uDFE3",
+			"\uDBFF\uDFE4\uDBFF\uDFE5\uDBFF\uDFE6\uDBFF\uDFE7\uDBFF\uDFE8\uDBFF\uDFE9"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/music/horn.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+			"\uDBFF\uDFAB\uDBFF\uDFAC\uDBFF\uDFAD\uDBFF\uDFAE",
+			"\uDBFF\uDFAF\uDBFF\uDFA0\uDBFF\uDFA1\uDBFF\uDFA2"
+            ]
+        },		
+        {
+         "type": "bitmap",
+         "file": "icons:items/map/info.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+			"\uDBFF\uDFA3\uDBFF\uDFA4",
+			"\uDBFF\uDFA5\uDBFF\uDFA6"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/tooltip/trim_pattern.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+			"\uDBC7\uDF50\uDBC7\uDF51\uDBC7\uDF52\uDBC7\uDF53\uDBC7\uDF54\uDBC7\uDF55\uDBC7\uDF56\uDBC7\uDF57",
+			"\uDBC7\uDF58\uDBC7\uDF59\uDBC7\uDF5A\uDBC7\uDF5B\uDBC7\uDF5C\uDBC7\uDF5D\uDBC7\uDF5E\uDBC7\uDF5F"
+            ]
+        },	
+        {
+         "type": "bitmap",
+         "file": "icons:items/tooltip/trim_material.png",
+         "ascent": 7,
+         "height": 8,
+         "chars": [
+			"\uDBFF\uDFB2\uDBFF\uDFB3\uDBFF\uDFB4\uDBFF\uDFB5\uDBFF\uDFB6\uDBFF\uDFB7\uDBFF\uDFB8\uDBFF\uDFB9\uDBFF\uDFCA\uDBFF\uDFCB"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/tooltip/smithing_upgrade.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+			"\uDBFF\uDFCC\uDBFF\uDFCD\uDBFF\uDFCE\uDBFF\uDFCF\uDBFF\uDFC0"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/tooltip/enchantment.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+			"\uDBA0\uDC00\uDBA0\uDC01\uDBA0\uDC02\uDBA0\uDC03\uDBA0\uDC04\uDBA0\uDC05\uDBA0\uDC06\uDBA0\uDC07",
+			"\uDBA0\uDC08\uDBA0\uDC09\uDBA0\uDC0A\uDBA0\uDC0B\uDBA0\uDC0C\uDBA0\uDC0D\uDBA0\uDC0E\uDBA0\uDC0F",
+			"\uDBA0\uDC10\uDBA0\uDC11\uDBA0\uDC12\uDBA0\uDC13\uDBA0\uDC14\uDBA0\uDC15\uDBA0\uDC16\uDBA0\uDC17",
+			"\uDBA0\uDC18\uDBA0\uDC19\uDBA0\uDC1A\uDBA0\uDC1B\uDBA0\uDC1C\uDBA0\uDC1D\uDBA0\uDC1E\uDBA0\uDC1F",
+			"\uDBA0\uDC20\uDBA0\uDC21\uDBA0\uDC22\uDBA0\uDC23\uDBA0\uDC24\uDBA0\uDC25\uDBA0\uDC26\uDBA0\uDC27"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/tooltip/armor.png",
+         "ascent": 8,
+         "height": 9,
+         "chars": [
+			"\uDBB8\uDF0A\uDBB8\uDF0B\uDBB8\uDF18\uDBB8\uDF19",
+			"\uDBB8\uDF0C\uDBB8\uDF0D\uDBB8\uDF1A\uDBB8\uDF1B",
+			"\uDBB8\uDF0E\uDBB8\uDF0F\uDBB8\uDF1C\uDBB8\uDF1D",
+			"\uDBB8\uDF10\uDBB8\uDF11\uDBB8\uDF1E\uDBB8\uDF1F",
+			"\uDBB8\uDF12\uDBB8\uDF13\uDBB8\uDF20\uDBB8\uDF21",
+			"\uDBB8\uDF14\uDBB8\uDF15\uDBB8\uDF22\uDBB8\uDF23",
+			"\uDBB8\uDF16\uDBB8\uDF17\uDBB8\uDF24\uDBB8\uDF25"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:items/painting/paintings.png",
+         "ascent": 16,
+         "height": 16,
+         "chars": [
+			"\uDBDA\uDDD0\uDBDA\uDDD1\uDBDA\uDDD2\uDBDA\uDDD3\uDBDA\uDDD4\uDBDA\uDDD5\uDBDA\uDDD6\uDBDA\uDDD7\uDBDA\uDDD8\uDBDA\uDDD9",
+			"\uDBDA\uDDDA\uDBDA\uDDDB\uDBDA\uDDDC\uDBDA\uDDDD\uDBDA\uDDDE\uDBDA\uDDDF\uDBDA\uDDE0\uDBDA\uDDE1\uDBDA\uDDE2\uDBDA\uDDE3",
+			"\uDBDA\uDDE4\uDBDA\uDDE5\uDBDA\uDDE6\uDBDA\uDDE7\uDBDA\uDDE8\uDBDA\uDDE9\uDBDA\uDDEA\uDBDA\uDDEB\uDBDA\uDDEC\uDBDA\uDDED"			
+            ]
+        },
+		{
+		"type": "bitmap",
+		"file": "icons:items/music/disc_time.png",
+		"ascent": 5,
+		"height": 5,
+		"chars": [
+			"\uDBDA\uDF51",
+			"\uDBDA\uDF52",
+			"\uDBDA\uDF53",
+			"\uDBDA\uDF54",
+			"\uDBDA\uDF55",
+			"\uDBDA\uDF56",
+			"\uDBDA\uDF57",
+			"\uDBDA\uDF58",
+			"\uDBDA\uDF59",
+			"\uDBDA\uDF5A",
+			"\uDBDA\uDF5B",
+			"\uDBDA\uDF5C",
+			"\uDBDA\uDF5D",
+			"\uDBDA\uDF5E",
+			"\uDBDA\uDF5F",
+			"\uDBDA\uDF61"			
+			]
+		},
+		{
+		"type": "bitmap",
+		"file": "icons:items/music/horn_time.png",
+		"ascent": 5,
+		"height": 5,
+		"chars": [
+			"\uDBDA\uDF49",
+			"\uDBDA\uDF4A",
+			"\uDBDA\uDF4B",
+			"\uDBDA\uDF4C",
+			"\uDBDA\uDF4D",
+			"\uDBDA\uDF4E",
+			"\uDBDA\uDF4F",
+			"\uDBDA\uDF50"
+			]
+		},	
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/minecraft_advancements_1.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE6E",
+			 "\uDBC1\uDE6F",
+			 "\uDBC1\uDE70",
+			 "\uDBC1\uDE71",
+			 "\uDBC1\uDE72",
+			 "\uDBC1\uDE73",
+			 "\uDBC1\uDE74"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/minecraft_advancements_2.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE75",
+			 "\uDBC1\uDE76",
+			 "\uDBC1\uDE77",
+			 "\uDBC1\uDE78",
+			 "\uDBC1\uDE79",
+			 "\uDBC1\uDE7A",
+			 "\uDBC1\uDE7B"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/minecraft_advancements_3.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE7C",
+			 "\uDBC1\uDE7D"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/adventure_advancements_1.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE00\uDBC1\uDE07\uDBC1\uDE0E\uDBC1\uDE15\uDBC1\uDE1C",
+			 "\uDBC1\uDE01\uDBC1\uDE08\uDBC1\uDE0F\uDBC1\uDE16\uDBC1\uDE1D",
+			 "\uDBC1\uDE02\uDBC1\uDE09\uDBC1\uDE10\uDBC1\uDE17\uDBC1\uDE1E",
+			 "\uDBC1\uDE03\uDBC1\uDE0A\uDBC1\uDE11\uDBC1\uDE18\uDBC1\uDE1F",
+			 "\uDBC1\uDE04\uDBC1\uDE0B\uDBC1\uDE12\uDBC1\uDE19\uDBC1\uDE20",
+			 "\uDBC1\uDE05\uDBC1\uDE0C\uDBC1\uDE13\uDBC1\uDE1A\uDBC1\uDE21",
+			 "\uDBC1\uDE06\uDBC1\uDE0D\uDBC1\uDE14\uDBC1\uDE1B\uDBC1\uDE22"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/husbandry_advancements_1.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE23",
+			 "\uDBC1\uDE24",
+			 "\uDBC1\uDE25",
+			 "\uDBC1\uDE26",
+			 "\uDBC1\uDE27",
+			 "\uDBC1\uDE28",
+			 "\uDBC1\uDE29"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/husbandry_advancements_2.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE2A",
+			 "\uDBC1\uDE2B",
+			 "\uDBC1\uDE2C",
+			 "\uDBC1\uDE2D",
+			 "\uDBC1\uDE2E",
+			 "\uDBC1\uDE2F",
+			 "\uDBC1\uDE30"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/husbandry_advancements_3.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE31",
+			 "\uDBC1\uDE32",
+			 "\uDBC1\uDE33",
+			 "\uDBC1\uDE34",
+			 "\uDBC1\uDE35",
+			 "\uDBC1\uDE36",
+			 "\uDBC1\uDE37"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/husbandry_advancements_4.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE38",
+			 "\uDBC1\uDE39"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/the_end_advancements_1.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE41",
+			 "\uDBC1\uDE42",
+			 "\uDBC1\uDE43",
+			 "\uDBC1\uDE44",
+			 "\uDBC1\uDE45",
+			 "\uDBC1\uDE46",
+			 "\uDBC1\uDE47"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/the_end_advancements_2.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE48",
+			 "\uDBC1\uDE49"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/the_end_advancements_1.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE41",
+			 "\uDBC1\uDE42",
+			 "\uDBC1\uDE43",
+			 "\uDBC1\uDE44",
+			 "\uDBC1\uDE45",
+			 "\uDBC1\uDE46",
+			 "\uDBC1\uDE47"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_1.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE51",
+			 "\uDBC1\uDE52",
+			 "\uDBC1\uDE53",
+			 "\uDBC1\uDE54",
+			 "\uDBC1\uDE55",
+			 "\uDBC1\uDE57",
+			 "\uDBC1\uDE5A"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_2.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE56"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_3.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE58"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_4.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE59"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_5.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE5B",
+			 "\uDBC1\uDE5C",
+			 "\uDBC1\uDE5D",
+			 "\uDBC1\uDE5E",
+			 "\uDBC1\uDE5F",
+			 "\uDBC1\uDE61",
+			 "\uDBC1\uDE62"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_6.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE60"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_7.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE63"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_8.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE64"
+            ]
+        },		
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_9.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE65",
+			 "\uDBC1\uDE68"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_10.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE66"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/nether_advancements_11.png",
+         "ascent": 8,
+         "height": 36,
+         "chars": [
+			 "\uDBC1\uDE67"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:advancement/floors.png",
+         "ascent": 8,
+         "height": 12,
+         "chars": [
+			 "\uDBC1\uDE89"
+            ]
+        },
+        {
+         "type": "bitmap",
+         "file": "icons:menu/modded.png",
+         "ascent": 8,
+         "height": 10,
+         "chars": [
+			 "\uDBE8\uDD90"
+            ]
+        },
+		{
+		 "type": "bitmap",
+		 "file": "icons:chat/gamemodes.png",
+		 "ascent": 8,
+         "height": 9,
+         "chars": [
+            "\uDB80\uDE0B\uDB80\uDE0C\uDB80\uDE0D\uDB80\uDE0E\uDB80\uDE0F\uDBC1\uDE69"	
+            ]
+           },
+		   {
+			"type": "bitmap",
+			"file": "icons:chat/advancement_categories2.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": [
+			"\uDB81\uDC1D\uDB81\uDC1E\uDB81\uDC1F"
+			   ]
+		   },
+		   {
+			"type": "bitmap",
+			"file": "icons:chat/message_type.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+			"\uDB81\uDC20\uDB81\uDC21\uDB81\uDC22\uDB81\uDC23\uDB81\uDC24\uDB81\uDC25\uDB81\uDC26\uDB81\uDC27"
+			   ]
+		   },
+		   {
+			"type": "bitmap",
+			"file": "icons:chat/commands.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+			"\uDB81\uDC28\uDB81\uDC29\uDB81\uDC2A\uDB81\uDC2B\uDB81\uDC2C\uDB81\uDC2D\uDB81\uDC2E\uDB81\uDC2F\uDB81\uDC30\uDB81\uDC31\uDB81\uDC32\uDB81\uDC33\uDB81\uDC34\uDB81\uDC35\uDB81\uDC36",
+			"\uDB81\uDC37\uDB81\uDC38\uDB81\uDC39\uDB81\uDC3A\uDB81\uDC3B\uDB81\uDC3C\uDB81\uDC3D\uDB81\uDC3E\uDB81\uDC3F\uDB81\uDC40\uDB81\uDC41\uDB81\uDC42\uDB81\uDC43\uDB81\uDC44\uDB81\uDC45"
+			   ]
+		   },
+		   {
+			"type": "bitmap",
+			"file": "icons:chat/whitelist.png",
+			"ascent": 7,
+			"height": 7,
+			"chars": [
+			"\uDB81\uDC46\uDB81\uDC47\uDB81\uDC48\uDB81\uDC49\uDB81\uDC4A\uDB81\uDC4B"
+		    ]
+		},
+		   {"type":"bitmap", "file":"minecraft:font/emoji_05_001.png", "height":12, "ascent":10, "chars":["\ud83e\udd47","\ud83e\udd48","\ud83e\udd49","\ud83c\udd70","\ud83c\udd8e","\ud83e\uddee","\ud83e\ude97","\ud83e\ude79","\ud83c\udf9f","\ud83d\udea1","\u2708","\ud83d\udeec","\ud83d\udeeb","\u23f0","\u2697","\ud83d\udc7d","\ud83d\udc7e","\ud83d\ude91","\ud83c\udfc8","\ud83c\udffa","\ud83e\udec0","\u2693","\ud83d\udca2","\ud83d\ude20","\ud83d\udc7f","\ud83d\ude27","\ud83d\udc1c","\ud83d\udcf6","\ud83d\ude30","\u2652","\u2648","\ud83d\ude9b","\u0000","\ud83c\udfa8","\ud83d\ude32","\u0000","\ud83c\udfe7","\u269b","\ud83d\udefa","\ud83d\ude97","\ud83e\udd51","\ud83e\ude93","\ud83c\udd71","\ud83d\udc76","\ud83d\udc7c","\ud83c\udf7c","\ud83d\udc24","\ud83d\udebc","\ud83d\udd19","\ud83d\udc47","\ud83d\udc48","\ud83d\udc49","\ud83d\udc46","\ud83c\udf92","\ud83e\udd53","\ud83e\udda1","\ud83c\udff8","\ud83e\udd6f","\ud83d\udec4","\ud83e\udd56","\u2696","\ud83e\ude70","\ud83c\udf88","\ud83d\uddf3","\ud83c\udf4c","\ud83e\ude95","\ud83c\udfe6","\ud83d\udcca","\ud83d\udc88","\u26be","\ud83e\uddfa","\ud83c\udfc0","\ud83e\udd87","\ud83d\udec1","\ud83d\udd0b","\ud83c\udfd6","\ud83d\ude01","\ud83e\uded8","\ud83d\udc3b","\ud83d\udc93","\ud83e\uddab","\ud83d\udecf","\ud83c\udf7a","\ud83e\udeb2","\ud83d\udd14","\ud83e\uded1","\ud83d\udd15","\ud83d\udece","\ud83c\udf71","\ud83e\uddc3","\ud83d\udeb2","\ud83d\udc59","\ud83e\udde2","\u2623","\ud83d\udc26","\ud83c\udf82","\ud83e\uddac","\ud83e\udee6","\u0000","\u26ab","\ud83c\udff4","\ud83d\udda4","\u2b1b","\u25fc","\u25fe","\u2712","\u25fe","\ud83d\udd32","\ud83c\udf3c","\ud83d\udc21","\ud83d\udcd8","\ud83d\udd35","\ud83d\udc99","\ud83d\udfe6","\ud83e\uded0","\ud83d\udc17","\ud83d\udca3","\ud83e\uddb4","\ud83d\udd16","\ud83d\udcd1","\ud83d\udcda","\ud83e\ude83","\ud83c\udf7e","\ud83d\udc90","\ud83c\udff9","\ud83e\udd63","\ud83c\udfb3","\ud83e\udd4a","\ud83d\udc66","\ud83e\udde0","\ud83c\udf5e","\ud83e\udd31","\ud83e\uddf1","\ud83c\udf09","\ud83d\udcbc","\ud83e\ude72","\ud83d\udd06","\ud83e\udd66","\ud83d\udc94","\ud83e\uddf9","\ud83d\udfe4","\ud83e\udd0e","\ud83d\udfeb","\ud83e\uddcb","\ud83e\udee7","\ud83e\udea3","\ud83d\udc1b","\ud83c\udfd7","\ud83d\ude85","\ud83c\udfaf","\ud83c\udf2f","\ud83d\ude8c","\ud83d\ude8f","\ud83d\udc64","\ud83d\udc65","\ud83e\uddc8","\ud83e\udd8b","\ud83c\udf35","\ud83d\udcc5","\ud83e\udd19"]},
+           {"type":"bitmap", "file":"minecraft:font/emoji_05_002.png", "height":12, "ascent":10, "chars":["\ud83d\udc2a","\ud83d\udcf7","\ud83d\udcf8","\ud83c\udfd5","\u264b","\ud83d\udd6f","\ud83c\udf6c","\ud83e\udd6b","\ud83d\udef6","\u2651","\ud83d\uddc3","\ud83d\udcc7","\ud83d\uddc2","\ud83c\udfa0","\ud83c\udf8f","\ud83e\ude9a","\ud83e\udd55","\ud83c\udfef","\ud83d\udc08","\ud83d\udc31","\ud83d\ude39","\ud83d\ude3c","\u26d3","\ud83e\ude91","\ud83d\udcc9","\ud83d\udcc8","\ud83d\udcb9","\u2611","\u2714","\u2705","\ud83e\uddc0","\ud83c\udfc1","\ud83c\udf52","\ud83c\udf38","\u265f","\ud83c\udf30","\ud83d\udc14","\ud83e\uddd2","\ud83d\udeb8","\ud83d\udc3f","\ud83c\udf6b","\ud83e\udd62","\ud83c\udf84","\u26ea","\ud83d\udeac","\ud83c\udfa6","\u24c2","\ud83c\udfaa","\ud83c\udfd9","\ud83c\udf06","\ud83c\udd91","\ud83d\udddc","\ud83c\udfac","\ud83d\udc4f","\ud83c\udfdb","\ud83c\udf7b","\ud83e\udd42","\ud83d\udccb","\ud83d\udd03","\ud83d\udcd5","\ud83d\udcea","\ud83d\udceb","\ud83c\udf02","\u2601","\u26c8","\u26c8","\ud83c\udf27","\ud83c\udf28","\ud83e\udd21","\u2663","\ud83d\udc5d","\ud83e\udde5","\ud83e\udeb3","\ud83c\udf78","\ud83e\udd65","\u26b0","\ud83e\ude99","\ud83e\udd76","\ud83d\udca5","\u2604","\ud83e\udded","\ud83d\udcbd","\ud83d\uddb1","\ud83c\udf8a","\ud83d\ude16","\ud83d\ude15","\ud83d\udea7","\ud83d\udc77","\ud83c\udf9b","\ud83c\udfea","\u0000","\ud83c\udf5a","\ud83c\udf6a","\ud83c\udf73","\ud83c\udd92","\u00a9","\ud83e\udeb8","\ud83d\udecb","\ud83d\udd04","\ud83d\udc04","\ud83d\udc2e","\ud83e\udd20","\ud83e\udd80","\ud83d\udd8d","\ud83d\udcb3","\ud83c\udf19","\ud83e\udd97","\ud83c\udfcf","\ud83d\udc0a","\ud83e\udd50","\u274c","\u274e","\ud83e\udd1e","\ud83c\udf8c","\u2694","\ud83d\udc51","\ud83e\ude7c","\ud83d\ude3f","\ud83d\ude22","\ud83d\udd2e","\ud83e\udd52","\ud83e\udd64","\ud83e\uddc1","\ud83e\udd4c","\u27b0","\ud83d\udcb1","\ud83c\udf5b","\ud83c\udf6e","\ud83d\udec3","\ud83e\udd69","\ud83c\udf00","\ud83d\udde1","\ud83c\udf61","\ud83d\udca8","\ud83c\udf33","\ud83e\udd8c","\ud83d\ude9a","\ud83c\udfec","\ud83c\udfda","\ud83c\udfdc","\ud83c\udfdd","\ud83d\udda5","\ud83d\udd75","\u2666","\ud83d\udca0","\ud83d\udd05","\ud83d\ude1e","\ud83e\udd78","\u2797","\ud83e\udd3f","\ud83e\ude94","\ud83d\udcab","\ud83e\uddec","\ud83e\udda4","\ud83d\udc15","\ud83d\udc36","\ud83d\udcb5","\ud83d\udc2c","\ud83d\udeaa","\ud83e\udee5"]},
+           {"type":"bitmap", "file":"minecraft:font/emoji_05_003.png", "height":12, "ascent":10, "chars":["\ud83d\udd2f","\u27bf","\u203c","\ud83c\udf69","\ud83d\udd4a","\u2b07","\ud83d\ude13","\u2198","\u2199","\ud83d\udd3d","\ud83d\udc09","\ud83d\udc32","\ud83d\udc57","\ud83e\udd24","\ud83e\ude78","\ud83d\udca7","\ud83e\udd41","\ud83e\udd86","\ud83e\udd5f","\ud83d\udcc0","\ud83e\udd85","\ud83d\udc42","\ud83c\udf3d","\ud83e\uddbb","\ud83e\udd5a","\ud83c\udf46","\ud83d\udd57","\u2734","\u2733","\ud83d\udd63","\u23cf","\ud83d\udd0c","\ud83d\udc18","\ud83d\uded7","\ud83d\udd5a","\ud83d\udd66","\ud83d\udce7","\ud83e\udeb9","\ud83d\udd1a","\u2709","\ud83d\udce9","\ud83d\udcb6","\ud83c\udf32","\ud83d\udc11","\u2049","\ud83e\udd2f","\ud83d\ude11","\ud83d\udc41","\u0000","\ud83d\udc40","\ud83d\ude18","\u0000","\ud83e\udd79","\u0000","\ud83d\ude0b","\ud83d\ude31","\ud83e\udd2e","\ud83e\udee4","\ud83e\udd2d","\ud83e\udd15","\ud83d\ude37","\ud83e\uddd0","\ud83e\udee2","\ud83d\ude2e","\ud83e\udee3","\ud83e\udd28","\ud83d\ude44","\u0000","\ud83d\ude24","\ud83e\udd2c","\ud83d\ude02","\ud83e\udd12","\ud83d\ude1b","\ud83d\ude36","\ud83c\udfed","\u0000","\ud83e\uddc6","\ud83c\udf42","\u0000","\u23ec","\u23ea","\u23eb","\u23e9","\ud83d\udce0","\ud83d\ude28","\ud83e\udeb6","\u2640","\ud83c\udfa1","\u26f4","\ud83c\udfd1","\ud83d\uddc4","\ud83d\udcc1","\ud83c\udf9e","\ud83d\udcfd","\ud83d\udd25","\ud83d\ude92","\ud83e\uddef","\ud83e\udde8","\u0000","\ud83c\udf86","\ud83c\udf13","\ud83c\udf1b","\ud83d\udc1f","\ud83c\udf65","\ud83c\udfa3","\ud83d\udd54","\ud83d\udd60","\u26f3","\ud83e\udda9","\ud83d\udd26","\ud83e\udd7f","\ud83e\uded3","\u269c","\ud83d\udcaa","\ud83d\udcbe","\ud83c\udfb4","\ud83d\ude33","\ud83e\udeb0","\ud83e\udd4f","\ud83d\udef8","\ud83c\udf2b","\ud83c\udf01","\ud83d\ude4f","\ud83e\uded5","\ud83e\uddb6","\ud83d\udc63","\ud83c\udf74","\ud83c\udf7d","\ud83e\udd60","\u26f2","\ud83d\udd8b","\ud83c\udf40","\ud83d\udd53","\ud83d\udd5f","\ud83e\udd8a","\ud83d\uddbc","\ud83c\udd93","\ud83c\udf5f","\ud83c\udf64","\ud83d\udc38","\ud83d\udc25","\ud83d\ude41","\ud83d\ude26","\u26fd","\ud83c\udf15","\ud83c\udf1d","\u26b1","\ud83c\udfb2","\ud83e\uddc4","\u2699","\ud83d\udc8e","\u264a","\ud83d\udc7b","\ud83e\udd92","\ud83d\udc67","\ud83e\udd5b","\ud83d\udd76","\ud83c\udf0e","\ud83c\udf0f","\ud83c\udf0d"]},
+           {"type":"bitmap", "file":"minecraft:font/emoji_05_004.png", "height":12, "ascent":10, "chars":["\ud83c\udf10","\ud83e\udde4","\ud83c\udf1f","\ud83e\udd45","\ud83d\udc10","\ud83d\udc7a","\ud83e\udd7d","\ud83e\udd8d","\ud83c\udf93","\ud83c\udf47","\ud83c\udf4f","\ud83d\udcd7","\ud83d\udfe2","\ud83d\udc9a","\ud83e\udd57","\ud83d\udfe9","\ud83d\ude2c","\ud83d\ude3a","\ud83d\ude38","\ud83d\ude00","\ud83d\ude03","\ud83d\ude04","\ud83d\ude05","\ud83d\ude06","\ud83d\udc97","\ud83d\udc82","\ud83e\uddae","\ud83c\udfb8","\ud83c\udf54","\ud83d\udd28","\u2692","\ud83d\udee0","\ud83e\udeac","\ud83d\udc39","\ud83d\udd90","\ud83e\udef0","\ud83d\udc5c","\ud83e\udd1d","\ud83d\udc23","\ud83c\udfa7","\ud83e\udea6","\u0000","\ud83d\ude49","\ud83d\udc9f","\u2763","\ud83e\udef6","\u0000","\u2665","\ud83d\udc98","\ud83d\udc9d","\ud83d\udcb2","\ud83d\udff0","\ud83e\udd94","\ud83d\ude81","\ud83c\udf3f","\ud83c\udf3a","\u26a1","\ud83d\udc60","\ud83d\ude84","\ud83e\udd7e","\ud83d\uded5","\ud83e\udd9b","\ud83d\udd73","\u2b55","\ud83c\udf6f","\ud83d\udc1d","\ud83e\ude9d","\ud83d\udea5","\ud83d\udc0e","\ud83d\udc34","\ud83c\udfc7","\ud83c\udfe5","\u2615","\ud83c\udf2d","\ud83e\udd75","\ud83c\udf36","\u2668","\ud83c\udfe8","\u231b","\u23f3","\ud83c\udfe0","\ud83c\udfe1","\ud83c\udfd8","\ud83e\udd17","\ud83d\udcaf","\ud83d\ude2f","\ud83d\uded6","\ud83e\uddca","\ud83c\udf68","\ud83c\udfd2","\u26f8","\ud83c\udd94","\ud83e\udeaa","\ud83d\udce5","\ud83d\udce8","\ud83e\udef5","\ud83d\udc46","\u267e","\u2139","\ud83d\udd24","\ud83d\udd21","\ud83d\udd20","\ud83d\udd22","\ud83d\udd23","\ud83c\udf83","\ud83c\ude51","\ud83c\ude38","\ud83c\ude50","\ud83c\udfef","\u3297","\ud83c\ude39","\ud83c\udf8e","\ud83c\ude1a","\ud83c\ude01","\ud83c\ude37","\ud83c\ude35","\ud83c\ude36","\ud83c\ude3a","\ud83c\ude34","\ud83c\udfe3","\ud83c\ude32","\ud83c\ude2f","\u3299","\ud83c\ude02","\ud83d\udd30","\ud83c\ude33","\ud83e\uded9","\ud83d\udc56","\ud83c\udccf","\ud83d\udd79","\u0000","\ud83d\udd4b","\ud83e\udd98","\ud83d\udd11","\u2328","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\ud83d\udef4","\ud83d\udc58","\ud83d\udc8b","\ud83d\ude3d","\ud83d\ude17","\ud83d\ude1a","\ud83d\ude19","\ud83d\udd2a","\ud83e\ude81","\ud83e\udd5d","\ud83d\ude35","\ud83e\udea2"]},
+           {"type":"bitmap", "file":"minecraft:font/emoji_05_005.png", "height":12, "ascent":10, "chars":["\ud83d\udc28","\ud83e\udd7c","\ud83c\udff7","\ud83e\udd4d","\ud83e\ude9c","\ud83d\udc1e","\ud83d\udcbb","\ud83d\udd37","\ud83d\udd36","\ud83c\udf17","\ud83c\udf1c","\u23ee","\u271d","\ud83c\udf43","\ud83e\udd6c","\ud83d\udcd2","\u2b05","\u21aa","\ud83d\udec5","\ud83d\udde8","\ud83e\udd1b","\u2194","\ud83e\udef2","\ud83e\uddb5","\ud83c\udf4b","\u264c","\ud83d\udc06","\ud83c\udf9a","\u264e","\ud83d\udca1","\ud83d\ude88","\ud83d\udd17","\ud83d\udd87","\ud83e\udd81","\ud83d\udc84","\ud83d\udeae","\ud83e\udd8e","\ud83e\udd99","\ud83e\udd9e","\ud83d\udd12","\ud83d\udd10","\ud83d\udd0f","\ud83d\ude82","\ud83c\udf6d","\ud83e\ude98","\ud83e\uddf4","\ud83e\udeb7","\ud83d\ude2d","\ud83d\udce2","\ud83c\udfe9","\ud83d\udc8c","\ud83e\udd1f","\ud83e\udeab","\ud83e\uddf3","\ud83e\udec1","\ud83e\udd25","\ud83e\ude84","\ud83e\uddf2","\ud83d\udd0d","\ud83d\udd0e","\ud83c\udc04","\u2642","\ud83e\udda3","\ud83d\udc68","\u0000","\u0000","\u0000","\u0000","\ud83d\udeb4","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\ud83d\udd7a","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\ud83e\udddc","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\ud83e\udd6d","\ud83d\udc5e","\ud83d\udd70","\ud83e\uddbd","\ud83d\uddfe","\ud83c\udf41","\ud83e\udd4b","\ud83e\uddc9","\ud83c\udf56","\u0000","\ud83e\uddbe","\ud83e\uddbf","\u2695","\ud83d\udce3","\ud83c\udf48","\ud83e\udee0","\ud83d\udcdd","\u0000","\ud83d\udd4e","\ud83d\udeb9","\ud83d\ude87"]},
+           {"type":"bitmap", "file":"minecraft:font/emoji_05_006.png", "height":12, "ascent":10, "chars":["\ud83e\udda0","\ud83c\udfa4","\ud83d\udd2c","\ud83d\udd95","\ud83e\ude96","\ud83c\udf96","\ud83c\udf0c","\ud83d\ude90","\u2796","\ud83e\ude9e","\ud83e\udea9","\ud83d\uddff","\ud83d\udcf1","\ud83d\udcf4","\ud83d\udcf2","\ud83d\udcb0","\ud83d\udcb8","\ud83e\udd11","\ud83d\udc12","\ud83d\udc35","\ud83d\ude9d","\ud83e\udd6e","\ud83c\udf91","\ud83d\udd4c","\ud83e\udd9f","\ud83d\udee5","\ud83d\udef5","\ud83c\udfcd","\ud83e\uddbc","\ud83d\udee3","\ud83d\uddfb","\u26f0","\ud83d\udea0","\ud83d\ude9e","\ud83d\udc01","\ud83d\udc2d","\ud83e\udea4","\ud83d\udc44","\ud83c\udfa5","\ud83e\udd36","\u2716","\ud83c\udf44","\ud83c\udfb9","\ud83c\udfb5","\ud83c\udfb6","\ud83c\udfbc","\ud83d\udd07","\u0000","\ud83d\udc85","\ud83d\udcdb","\ud83c\udfde","\ud83e\udd22","\ud83e\uddff","\ud83d\udc54","\ud83e\udd13","\ud83e\udeba","\ud83e\ude86","\ud83d\ude10","\ud83c\udd95","\ud83c\udf11","\ud83c\udf1a","\ud83d\udcf0","\u23ed","\ud83c\udd96","\ud83c\udf03","\ud83d\udd58","\ud83d\udd64","\ud83e\udd77","\ud83d\udeb3","\u26d4","\ud83d\udeaf","\ud83d\udcf5","\ud83d\udd1e","\ud83d\udeb7","\ud83d\udead","\ud83d\udeb1","\ud83d\udc43","\ud83d\udcd3","\ud83d\udcd4","\ud83d\udd29","\ud83c\udd7e","\ud83d\udc19","\ud83c\udf62","\ud83c\udfe2","\u0000","\ud83d\udc79","\ud83d\udee2","\ud83c\udd97","\ud83d\udc4c","\ud83d\udddd","\ud83d\udc74","\ud83d\udc75","\ud83e\uddd3","\ud83e\uded2","\ud83d\udd49","\ud83d\udd1b","\ud83d\ude98","\ud83d\ude8d","\ud83d\udc4a","\ud83d\ude94","\ud83d\ude96","\ud83d\udd50","\ud83e\ude71","\ud83d\udd5c","\ud83e\uddc5","\ud83d\udcd6","\ud83d\udcc2","\ud83d\udc50","\ud83d\udced","\ud83d\udcec","\u26ce","\ud83d\udcbf","\ud83d\udcd9","\ud83d\udfe0","\ud83e\udde1","\ud83d\udfe7","\ud83e\udda7","\u2626","\ud83e\udda6","\ud83d\udce4","\ud83e\udd89","\ud83d\udc02","\ud83e\uddaa","\ud83c\udd7f","\ud83d\udce6","\ud83d\udcc4","\ud83d\udcc3","\ud83d\udcdf","\ud83d\udd8c","\ud83e\udef3","\ud83c\udf34","\ud83e\udef4","\ud83e\udd32","\ud83e\udd5e","\ud83d\udc3c","\ud83e\ude82","\ud83e\udd9c","\u303d","\ud83c\udf89","\ud83e\udd73","\ud83d\udef3","\ud83d\udec2","\u23f8","\ud83d\udc3e","\u262e","\ud83c\udf51","\ud83e\udd9a","\ud83e\udd5c","\ud83c\udf50","\ud83d\udd8a","\u270f","\ud83d\udc27","\ud83d\ude14","\ud83e\udec2","\ud83c\udfad","\ud83d\ude23","\ud83e\uddd1","\u0000","\ud83e\uddd4","\ud83d\udeb4"]},
+           {"type":"bitmap", "file":"minecraft:font/emoji_05_007.png", "height":12, "ascent":10, "chars":["\ud83d\udc71","\u26f9","\ud83d\ude47","\ud83e\udd38","\ud83e\uddd7","\u0000","\u0000","\ud83e\udddd","\ud83e\udd26","\ud83e\uddda","\u0000","\ud83e\udd3a","\ud83d\ude4d","\ud83e\uddde","\ud83d\ude45","\ud83d\ude46","\ud83d\udc87","\ud83d\udc86","\ud83c\udfcc","\ud83d\udecc","\ud83e\uddd8","\u0000","\u0000","\ud83e\uddd6","\ud83d\udd74","\ud83e\udd35","\ud83e\udd39","\ud83e\uddce","\ud83c\udfcb","\ud83e\uddd9","\u0000","\ud83d\udeb5","\ud83e\udd3e","\ud83e\udd3d","\ud83d\ude4e","\ud83d\ude4b","\u0000","\ud83d\udea3","\ud83c\udfc3","\ud83e\udd37","\ud83e\uddcd","\ud83e\uddb8","\ud83e\uddb9","\ud83c\udfc4","\ud83c\udfca","\ud83d\udec0","\ud83d\udc81","\ud83e\udddb","\ud83d\udeb6","\ud83d\udc73","\u0000","\ud83d\udc6f","\ud83e\udec5","\ud83d\udc72","\ud83d\udc70","\u0000","\ud83e\udd3c","\ud83e\udddf","\ud83e\uddeb","\u26cf","\ud83d\udefb","\ud83e\udd67","\ud83d\udc16","\ud83d\udc37","\ud83d\udc3d","\ud83d\udca9","\ud83d\udc8a","\u0000","\ud83e\ude85","\ud83e\udd0c","\ud83e\udd0f","\ud83c\udf8d","\ud83c\udf4d","\ud83c\udfd3","\u0000","\u2653","\ud83c\udf55","\ud83e\udea7","\ud83d\uded0","\u25b6","\u23ef","\ud83d\udedd","\ud83e\udd7a","\ud83e\udea0","\u2795","\u0000","\ud83d\ude93","\ud83d\udea8","\ud83d\udc6e","\ud83d\udc29","\ud83c\udfb1","\ud83c\udf7f","\ud83c\udfe3","\ud83d\udcef","\ud83d\udcee","\ud83c\udf72","\ud83d\udeb0","\ud83e\udd54","\ud83e\udeb4","\ud83c\udf57","\ud83d\udcb7","\ud83e\uded7","\ud83d\ude3e","\ud83d\ude21","\ud83d\udcff","\ud83e\udec3","\ud83e\udec4","\ud83e\udd30","\ud83e\udd68","\ud83e\udd34","\ud83d\udc78","\ud83d\udda8","\ud83d\udeab","\ud83d\udfe3","\ud83d\udc9c","\ud83d\udfea","\ud83d\udc5b","\ud83d\udccc","\ud83e\udde9","\ud83d\udc07","\ud83d\udc30","\ud83e\udd9d","\ud83c\udfce","\ud83d\udcfb","\ud83d\udd18","\u2622","\ud83d\ude83","\ud83d\udee4","\ud83c\udf08","\u0000","\ud83e\udd1a","\u270a","\ud83e\udd1a","\ud83d\ude4c","\ud83d\udc0f","\ud83d\udc00","\ud83e\ude92","\ud83e\uddfe","\u23fa","\u267b","\ud83c\udf4e","\ud83d\udd34","\ud83e\udde7","\u2757","\u2764","\ud83c\udfee","\u2753","\ud83d\udfe5","\ud83d\udd3a","\ud83d\udd3b","\u00ae","\ud83d\ude0c","\ud83c\udf97","\ud83d\udd01","\ud83d\udd02","\u26d1","\ud83d\udebb","\u25c0","\ud83d\udc9e","\ud83e\udd8f"]},
+           {"type":"bitmap", "file":"minecraft:font/emoji_05_008.png", "height":12, "ascent":10, "chars":["\ud83c\udf80","\ud83c\udf59","\ud83c\udf58","\ud83d\uddef","\u27a1","\u2935","\u21a9","\u2934","\ud83e\udd1c","\ud83e\udef1","\ud83d\udc8d","\ud83d\udedf","\ud83e\ude90","\ud83c\udf60","\ud83e\udd16","\ud83e\udea8","\ud83d\ude80","\ud83e\uddfb","\ud83d\uddde","\ud83c\udfa2","\ud83d\udefc","\ud83e\udd23","\ud83d\udc13","\ud83c\udf39","\ud83c\udff5","\ud83d\udccd","\ud83c\udfc9","\ud83c\udfbd","\ud83d\udc5f","\ud83d\ude25","\ud83e\uddf7","\ud83e\uddba","\u2650","\u26f5","\ud83c\udf76","\ud83e\uddc2","\ud83e\udee1","\ud83e\udd6a","\ud83c\udf85","\ud83e\udd7b","\ud83d\udef0","\ud83d\udce1","\ud83e\udd95","\ud83c\udfb7","\ud83e\udde3","\ud83c\udfeb","\u0000","\u2702","\u264f","\ud83e\udd82","\ud83e\ude9b","\ud83d\udcdc","\ud83e\uddad","\ud83d\udcba","\ud83c\udf31","\ud83d\ude48","\ud83e\udd33","\u0000","\ud83d\udd56","\ud83d\udd62","\ud83e\udea1","\ud83e\udd58","\u2618","\ud83e\udd88","\ud83c\udf67","\ud83c\udf3e","\ud83d\udee1","\u26e9","\ud83d\udea2","\ud83c\udf20","\ud83d\udecd","\ud83d\uded2","\ud83c\udf70","\ud83e\ude73","\ud83d\udebf","\ud83e\udd90","\ud83d\udd00","\ud83e\udd2b","\ud83e\udd18","\u0000","\ud83d\udd55","\ud83d\udd61","\ud83d\udef9","\u26f7","\ud83c\udfbf","\ud83d\udc80","\u2620","\ud83e\udda8","\ud83d\udef7","\ud83d\ude34","\ud83d\ude2a","\ud83d\ude41","\ud83d\ude42","\ud83c\udfb0","\ud83e\udda5","\ud83d\udee9","\ud83d\udd39","\ud83d\udd38","\ud83d\ude3b","\ud83d\ude42","\ud83d\ude07","\ud83d\ude0d","\ud83e\udd70","\ud83d\ude08","\ud83d\ude0a","\ud83d\ude0e","\ud83e\udd72","\ud83d\ude0f","\ud83d\udc0c","\ud83d\udc0d","\ud83e\udd27","\ud83c\udfc2","\ud83c\udfd4","\u2744","\u2603","\u26c4","\ud83e\uddfc","\u26bd","\ud83e\udde6","\ud83c\udf66","\ud83e\udd4e","\ud83d\udd1c","\ud83c\udd98","\u2660","\ud83c\udf5d","\u2747","\ud83c\udf87","\u2728","\ud83d\udc96","\ud83d\udd0a","\ud83d\udd08","\ud83d\udd09","\ud83d\udde3","\ud83d\ude4a","\ud83d\udcac","\ud83d\udea4","\ud83d\udd77","\ud83d\udd78","\ud83d\uddd3","\ud83d\uddd2","\ud83d\udc1a","\ud83e\uddfd","\ud83e\udd44","\ud83d\ude99","\ud83c\udfc5","\ud83d\udc33","\ud83e\udd91","\ud83d\ude1d","\ud83c\udfdf","\u2b50","\u262a","\u2721","\ud83e\udd29","\ud83d\ude89","\ud83d\uddfd","\ud83c\udf5c","\ud83e\ude7a","\u23f9","\ud83d\uded1","\u23f1"]},
+           {"type":"bitmap", "file":"minecraft:font/emoji_05_009.png", "height":12, "ascent":10, "chars":["\ud83d\udccf","\ud83c\udf53","\u0000","\ud83c\udf99","\ud83e\udd59","\u2600","\u26c5","\ud83c\udf25","\ud83c\udf26","\ud83c\udf24","\ud83c\udf1e","\ud83c\udf3b","\ud83d\udd76","\ud83c\udf05","\ud83c\udf04","\ud83c\udf07","\ud83c\udf63","\ud83d\ude9f","\ud83e\udda2","\ud83d\udca6","\ud83d\udd4d","\ud83d\udc89","\ud83c\udf2e","\ud83e\udd61","\ud83e\uded4","\ud83c\udf8b","\ud83c\udf4a","\u2649","\ud83d\ude95","\u0000","\ud83c\udf75","\ud83e\uded6","\ud83d\udcc6","\ud83e\uddf8","\u260e","\ud83d\udcde","\ud83d\udd2d","\ud83d\udcfa","\ud83d\udd59","\ud83c\udfbe","\u26fa","\ud83d\udd65","\ud83e\uddea","\ud83c\udf21","\ud83e\udd14","\ud83e\ude74","\ud83d\udcad","\ud83e\uddf5","\ud83d\udd52","\ud83d\udd5e","\ud83d\udc4e","\ud83d\udc4d","\ud83c\udfab","\ud83d\udc05","\ud83d\udc2f","\u23f2","\ud83d\ude2b","\ud83d\udebd","\ud83d\uddfc","\ud83c\udf45","\ud83d\udc45","\ud83e\uddf0","\ud83e\uddb7","\ud83e\udea5","\ud83d\udd1d","\ud83c\udfa9","\ud83c\udf2a","\ud83d\uddb2","\ud83d\ude9c","\u2122","\ud83d\ude86","\ud83d\ude8a","\ud83d\ude8b","\u0000","\u26a7","\ud83e\udd96","\ud83d\udea9","\ud83d\udcd0","\ud83d\udd31","\ud83e\uddcc","\ud83d\ude8e","\ud83c\udfc6","\ud83c\udf79","\ud83d\udc20","\ud83c\udfba","\ud83d\udc55","\ud83c\udf37","\ud83e\udd43","\ud83e\udd83","\ud83d\udc22","\ud83d\udd5b","\ud83d\udd67","\ud83d\udc95","\ud83d\udd51","\ud83d\udc2b","\ud83d\udd5d","\u2602","\u26f1","\u2614","\ud83d\ude12","\ud83e\udd84","\ud83d\udd13","\ud83c\udd99","\u2b06","\u2195","\u2196","\u2197","\ud83d\ude43","\ud83d\udd3c","\ud83d\udea6","\ud83d\udcf3","\u270c","\ud83d\udcf9","\ud83d\udcfc","\ud83c\udfbb","\u264d","\ud83c\udf0b","\ud83c\udfd0","\ud83c\udd9a","\ud83d\udd96","\ud83e\uddc7","\ud83c\udf18","\ud83c\udf16","\u26a0","\ud83d\uddd1","\u231a","\ud83d\udc03","\ud83d\udebe","\ud83d\udd2b","\ud83c\udf0a","\ud83c\udf49","\ud83d\udc4b","\u3030","\ud83c\udf12","\ud83c\udf14","\ud83d\ude40","\ud83d\ude29","\ud83d\udc92","\ud83d\udc33","\ud83d\udede","\u2638","\u267f","\ud83e\uddaf","\u26aa","\u2755","\ud83c\udff3","\ud83d\udcae","\ud83e\udd0d","\u2b1c","\u25fb","\u25fd","\u2754","\u25fd","\ud83d\udd33","\ud83e\udd40","\ud83c\udf90","\ud83c\udf2c","\ud83e\ude9f","\ud83c\udf77","\ud83d\ude09"]},
+           {"type":"bitmap", "file":"minecraft:font/emoji_05_010.png", "height":12, "ascent":10, "chars":["\ud83d\ude1c","\ud83d\udc3a","\ud83d\udc69","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\ud83d\udc83","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\u0000","\ud83e\uddd5","\u0000","\u0000","\u0000","\u0000","\ud83d\udc62","\ud83d\udc5a","\ud83d\udc52","\ud83d\udc61","\ud83d\udeba","\ud83e\udeb5","\ud83e\udd74","\ud83d\uddfa","\ud83e\udeb1","\ud83d\ude1f","\ud83c\udf81","\ud83d\udd27","\u270d","\ud83e\ude7b","\ud83e\uddf6","\ud83e\udd71","\ud83d\udfe1","\ud83d\udc9b","\ud83d\udfe8","\ud83d\udcb4","\u262f","\ud83e\ude80","\ud83e\udd2a","\ud83e\udd93","\ud83e\udd10","\ud83d\udca4"]},
+        {
+         "type": "bitmap",
+         "file": "icons:menu/flat_world_layers.png",
+         "ascent": 7,
+         "height": 8,
+         "chars": [
+			 "\uDBE8\uDDA3\uDBE8\uDDA4\uDBE8\uDDA5\uDBE8\uDDA6\uDBE8\uDDA7\uDBE8\uDDA8\uDBE8\uDDA9\uDBE8\uDDAA\uDBE8\uDDAB\uDBE8\uDDAC"
+            ]
+        },			
+		{
+		"type":"space",
+			"advances":{
+				"󎀀":-35,
+				"󎀁":2
+			}
+		}
+	]
+}
